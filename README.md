@@ -31,8 +31,8 @@
   (3)技術的部份包括 視頻遊戲,網絡色情和在線賭博
   
 #6.Crowdsourcing vs Crowdfunding[比較題]
-  
-
+  (1)資訊 vs 資金
+  (2)
 
 
 #7.metadata
