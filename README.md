@@ -1,13 +1,13 @@
 # 1111.1
 
-##1.bandwidth bps##
+//1.bandwidth bps//
   (1)
 
 
 
 
 
-##2.RFID##
+//2.RFID//
   (1)RFID無線射頻辨識（英語：Radio Frequency IDentification
   (2)利用無線電傳輸資訊,無須接觸就能判定相關資訊
   (3)在行業上會把數據附在標籤上有利於追蹤商品,物品的位置
