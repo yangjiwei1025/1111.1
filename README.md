@@ -108,13 +108,15 @@
     註 2:須說明 OSI Model每一層的簡略功能
 ```
 ```
-| 第7層 應用層 （Application Layer） |     :---:      |          ---: | Center-aligned |
-| 第6層 表達層 （Presentation Layer） | git status     | git status    | Center-aligned |
-| 第5層 會議層 （Session Layer） | git diff       | git diff      | Center-aligned |
-| 第4層 傳輸層 （Transport Layer）| Center-aligned | Right-aligned | Center-aligned |
-| 第3層 網路層 （Network Layer）|     :---:      |          ---: | Center-aligned |
+| OSI Model | --- | TCP/IP protocol | 
+| --- | --- | --- |
+| 第7層 應用層 （Application Layer）  |     :---:      |          ---: | Center-aligned |
+| 第6層 表達層 （Presentation Layer）  | git status     | git status    | Center-aligned |
+| 第5層 會議層 （Session Layer）  | git diff       | git diff      | Center-aligned |
+| 第4層 傳輸層 （Transport Layer） | Center-aligned | Right-aligned | Center-aligned |
+| 第3層 網路層 （Network Layer） |     :---:      |          ---: | Center-aligned |
 | 第2層 資料連結層（Data Link Layer） | git status     | git status    | Center-aligned |
-| 第1層 實體層  （Physical Layer）| git diff       | git diff      | Center-aligned |
+| 第1層 實體層  （Physical Layer） | git diff       | git diff      | Center-aligned |
 ```
 ###4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
 ```
