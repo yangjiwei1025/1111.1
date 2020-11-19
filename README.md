@@ -16,28 +16,28 @@
   (3)使用電磁場來自動識別和跟踪附加到對像上的標籤
   (4)沒有電源的可藉由電磁波或的能量
 ```
-# 3.NFC
+### 3.NFC
 ```
   (1)近距離無線通訊（英語：Near-field communication，NFC）
   (2)由非接觸式射頻識別（RFID）演變而來距離較RFID近
   (3)是短距離而高頻率的無線電裝置
   (4)是一套通訊協議
 ```
-# 4.cellular network
+### 4.cellular network
 ```
   (1)蜂巢式網路（英語：Cellular network），又稱行動網路（mobile network） 
   (2)是一套通訊協定
   (3)因為網路基地台覆蓋範圍呈現六邊形很像蜂巢所以叫蜂巢式網路
   (4)相鄰的區域不能使用相同頻率,會產生"同頻干擾",但是其他的可以
   ```
-# 5.technology addiction
+### 5.technology addiction
 ```
   (1)technology addiction{GOOGLE翻譯 技術成癮(我個人翻為 網路成癮)}
   (2)現代人過於依賴技術所產生的
   (3)技術的部份包括 視頻遊戲,網絡色情和在線賭博
   (4)因為科技發達而產生的
   ```
-# 6.Crowdsourcing vs Crowdfunding[比較題]
+### 6.Crowdsourcing vs Crowdfunding[比較題]
   ```
   (1)解決問題 vs 解決資金
   (2)眾籌不是解決微任務，而是解決一種微資金。
@@ -45,42 +45,42 @@
   (4)[Crowdfunding]眾籌平台將需要資金的個人或實體與願意捐款的社區成員聚集在一起。
 ```
 
-# 7.metadata
+### 7.metadata
 ```
   (1)分為 技術性,結構性,管理性
   (2)屬於電子形式的目錄
   (3)支援如指示儲存位置、歷史資料、資源尋找、檔案記錄等功能，進而達成協助資料檢索的目的。
   (4)為描述其他資料資訊的資料
   ```
-# 8.CMS
+### 8.CMS
 ```
   (1)內容管理系統（英語：content management system，縮寫為 CMS）
   (2)管理工作流程的一套制度  
   (3)內容是任何類型的數字資訊的結合體，可以是文字、業務文件、資料庫表單、影片、聲音等等
   (4)屬於後臺
   ```
-# 9.DDos Attack
+### 9.DDos Attack
 ```
   (1)分散式阻斷服務攻擊（distributed denial-of-service attack）
   (2)攻擊者傳大量的垃圾內容給一台伺服器導致伺服器處理不來(Dos)
   (3)一個攻擊者用多台電腦攻擊一台伺服器(DDos)
   (4)死亡之Ping 殭屍網路攻擊 洪水攻擊 LAND攻擊
 ```
-# 10.Botnet
+### 10.Botnet
 ```
   (1)稱為殭屍網路
   (2)駭客用分散式阻斷攻擊(DDos)一次駭入"數萬台電腦"<-殭屍
   (3)利用數萬台電腦傳送垃圾給伺服器造成伺服器癱瘓
   (4)用來傳送偽造包或者是垃圾封包，使預定攻擊目標癱瘓並「阻斷服務」。
 ```
-# 11.RWD
+### 11.RWD
 ```
   (1)響應式網頁設計（英語：Responsive web design，通常縮寫為RWD）
   (2)是一種網頁設計的技術做法
   (3)在不同的解析度用不一樣的排版來減少進行縮放、平移和捲動等操作行為
   (4)因為一樣排版在不同裝置例如手機電腦平板等會造成不便
 ```
-# 12.SEO
+### 12.SEO
 ```
   (1)搜尋引擎最佳化（英語：search engine optimization，縮寫為SEO）
   (2)不管哪一種搜尋引擎都有一套自己的演算法
@@ -90,11 +90,58 @@
 ```
 #2.問答與申論題 :OSI Model 與 TCP/IP protocol
 
+### 1.解釋 communication protocol(簡稱協定 protocol)
+```
 
+```
+### 2. Why Layering? (為何要分層 ?)
+```
 
+```
+### 3. 列出 OSI Model 與 TCP/IP protocol對應圖
+    註 1: 需用中英文寫出各層的名稱
+    註 2:須說明 OSI Model每一層的簡略功能
+```
 
+```
+###4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
+   (1)HTTP vs HTTPS (2) TELNET vs SSH (3)DNS (4)IP (5)ICMP
+```
 
+```
 
+###5. TCP vs UDP
+[1]英文全名
+[2]須說明 reliable(可靠) vs un-reliable(不可靠)
+[3]如何達到reliable(可靠)
+[4]Three-way handshaking機制
+```
 
+```
+###6.簡述下列網路設備  主要功能 與 特色 及 運作在 OSI哪一層
+(1) Hub vs Repeater
+(2)Switch vs Bridge
+(3)Router vs L3 Switch
+(4)Proxy
+```
 
+```
+###7.簡述下列 簡述下列 address(位址 )的意義 與定義 在 OSI Model哪一層
+(1)PORT address
+(2)IP address
+(3)MAC address
+```
 
+```
+###
+```
+
+```
+###
+```
+
+```
+###
+```
+
+```
