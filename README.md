@@ -1,6 +1,6 @@
-# 1111.1
 
-# 1.bandwidth(頻寬), bps()
+
+### 1.bandwidth(頻寬), bps()
 ```
   (1)頻寬是特定時間內可以從一個點傳輸到另一點的數據量
   (2)頻寬（Bandwidth）是類比訊號使用的名詞
@@ -9,7 +9,7 @@
 ```
 ### https://www.stockfeel.com.tw/%E9%A0%BB%E5%AF%AC-%E8%B3%87%E6%96%99%E5%82%B3%E8%BC%B8-%E9%97%9C%E8%81%AF%E6%80%A7/
 
-# 2.RFID
+### 2.RFID
 ```
   (1)RFID無線射頻辨識（英語：Radio Frequency IDentification
   (2)利用無線電傳輸資訊,不用接觸就能讀取相關資訊
