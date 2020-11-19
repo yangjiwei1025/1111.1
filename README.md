@@ -107,7 +107,7 @@
     註 1: 需用中英文寫出各層的名稱
     註 2:須說明 OSI Model每一層的簡略功能
 ```
-```
+
 | OSI Model | --- | TCP/IP protocol | 
 | --- | --- | --- |
 | 第7層 應用層 （Application Layer）  |     :---:      |          ---: | Center-aligned |
@@ -117,7 +117,7 @@
 | 第3層 網路層 （Network Layer） |     :---:      |          ---: | Center-aligned |
 | 第2層 資料連結層（Data Link Layer） | git status     | git status    | Center-aligned |
 | 第1層 實體層  （Physical Layer） | git diff       | git diff      | Center-aligned |
-```
+
 ###4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
 ```
    (1)HTTP vs HTTPS (2) TELNET vs SSH (3)DNS (4)IP (5)ICMP
