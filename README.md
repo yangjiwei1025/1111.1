@@ -108,15 +108,15 @@
     註 2:須說明 OSI Model每一層的簡略功能
 ```
 
-| OSI Model | --- | TCP/IP protocol | 
-| --- | --- | --- |
-| 第7層 應用層 （Application Layer）  |     :---:      |          ---: | Center-aligned |
-| 第6層 表達層 （Presentation Layer）  | git status     | git status    | Center-aligned |
-| 第5層 會議層 （Session Layer）  | git diff       | git diff      | Center-aligned |
-| 第4層 傳輸層 （Transport Layer） | Center-aligned | Right-aligned | Center-aligned |
-| 第3層 網路層 （Network Layer） |     :---:      |          ---: | Center-aligned |
-| 第2層 資料連結層（Data Link Layer） | git status     | git status    | Center-aligned |
-| 第1層 實體層  （Physical Layer） | git diff       | git diff      | Center-aligned |
+| OSI Model | --- | TCP/IP protocol | --- |
+| --- | --- | --- | --- |
+| 第7層 應用層 （Application Layer）  | 提供為應用軟體而設計的介面，以設定與另一應用軟體之間的通訊。例如：HTTP、HTTPS、FTP、Telnet、SSH、SMTP、POP3等。 |          ---: | Center-aligned |
+| 第6層 表達層 （Presentation Layer）  | 把數據轉換為能與接收者的系統格式相容並適合傳輸的格式。 | git status    | Center-aligned |
+| 第5層 會議層 （Session Layer）  | 負責在數據傳輸中設定和維護電腦網路中兩台電腦之間的通訊連接。 | git diff      | Center-aligned |
+| 第4層 傳輸層 （Transport Layer） | 把傳輸表頭（TH）加至數據以形成數據包。傳輸表頭包含了所使用的協定等傳送資訊。 | Right-aligned | Center-aligned |
+| 第3層 網路層 （Network Layer） |  決定數據的路徑選擇和轉寄，將網路表頭（NH）加至數據包，以形成封包。  |          ---: | Center-aligned |
+| 第2層 資料連結層（Data Link Layer） | 負責網路尋址、錯誤偵測和改錯。當表頭和表尾被加至數據包時，會形成資訊框（Data Frame）。| git status    | Center-aligned |
+| 第1層 實體層  （Physical Layer） | 負責管理電腦通訊裝置和網路媒體之間的互通 | git diff      | Center-aligned |
 
 ###4. 簡述 下列協定的功能 與特色並說明它們 運作在 TCP/IP的哪一層?
 ```
