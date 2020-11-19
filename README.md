@@ -134,7 +134,22 @@
 [4]Three-way handshaking機制
 ```
 ```
+[1] 英語：User Datagram Protocol，縮寫：UDP；英語：Transmission Control Protocol，縮寫：TCP
 
+{2} TCP 前面所介紹的傳送層檢測手續﹐都會在 TCP 中得到實現。
+
+    UDP 信息可能會在網路傳送過程中丟失﹑重複﹑或不依順序﹐
+    
+[3] 對於某些訊息量較大、時效性大於可靠性的傳輸來說(比方說語音 / 影像)，UDP 的確是個不錯的選擇。
+
+```
+```
+[4]Three-way handshaking機制 
+    A  =發出請求>  B
+     
+    A  <回復+請求= B
+  
+    A  =發出回復>  B
 ```
 ###6.簡述下列網路設備  主要功能 與 特色 及 運作在 OSI哪一層
 ```
@@ -144,7 +159,28 @@
 (4)Proxy
 ```
 ```
-
+(1) Hub vs Repeater
+主要功能 
+特色               
+運作在 OSI哪一層   皆在實體層
+```
+```
+(2)Switch vs Bridge
+主要功能 
+特色 
+運作在 OSI哪一層
+```
+```
+(3)Router vs L3 Switch
+主要功能 
+特色 
+運作在 OSI哪一層
+```
+```
+(4)Proxy
+主要功能 
+特色 
+運作在 OSI哪一層
 ```
 ###7.簡述下列 簡述下列 address(位址 )的意義 與定義 在 OSI Model哪一層
 ```
@@ -152,6 +188,13 @@
 (2)IP address
 (3)MAC address
 ```
+```
+(1)PORT address
+```
+```
+(2)IP address
+```
+```
+(3)MAC address
+```
 
-```
-```
